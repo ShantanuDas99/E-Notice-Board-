@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WelcomePage</string>
+    <string name="number">Roll Number</string>
+    <string name="number1">Id Number</string>
+    <string name="error">Password</string>
+    <string name="click">Login</string>
+    <string-array name="choose">
+        <item>Select Role</item>
+        <item>Admin</item>
+        <item>Student</item>
+
+
+    </string-array>
+
+
+</resources>
